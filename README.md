@@ -25,6 +25,7 @@ This example demos the following features of the BLOCKv Android Sdk
 
 * **Resending email verification**. [Code](./app/src/main/java/io/blockv/example/feature/verify/email/VerifyEmailPresenterImpl.java#L46) [Docs](https://developer.blockv.io/docs/reference/v1/android/user/reset-user-token-verification)
 
+
 * **Resending phone number verification**. [Code](./app/src/main/java/io/blockv/example/feature/verify/phone/VerifyPhonePresenterImpl.java#L45) [Docs](https://developer.blockv.io/docs/reference/v1/android/user/reset-user-token-verification)
 
 * **Fetching current user's profile**. [Code](./app/src/main/java/io/blockv/example/feature/profile/ProfilePresenterImpl.java#L47) [Docs](https://developer.blockv.io/docs/reference/v1/android/user/get-profile)

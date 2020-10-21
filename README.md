@@ -1,4 +1,4 @@
-Blockv Android Example
+FORCEN Android Example
 ======================
 
 Android example application demoing features of the Blockv platform
